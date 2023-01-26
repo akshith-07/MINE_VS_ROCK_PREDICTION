@@ -1,0 +1,1 @@
+streamlit run "C:\Users\Smile\Desktop\MINE VS ROCK PREDICTION\prediction.py"
