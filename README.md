@@ -17,7 +17,7 @@ A Python library is a collection of related modules. It contains bundles of code
 • Numpy
 • Matplotlib
 
-## Module Description
+## MODULES DESCRIPTION
 
 ## Data Acquisition and Data Preprocessing:
 • Here the dataset is downloaded from https://www.kaggle.com/datasets/reshmaduseja/rock-vs-mine-predictionmachine-learning
