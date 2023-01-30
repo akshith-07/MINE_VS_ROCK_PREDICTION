@@ -40,6 +40,10 @@ and biases that go into the model.
 ### Implementing User Interface using Streamlit:
  Now we create the actual web application that makes use of all the processed and trained data that we have up till now to take in user queries and give proper responses. Here we use the streamlit python library for the user interface. Here we load the model created and using the saved models from the google colab using pickle library and using various functions to take the user input and predict the responses. Once we run this web application ,it will ask to enter 60 inputs that are nothing but the frequencies that are taken from 60 different angles it will predict whether the object is mine or rock.
  
+
+
+
+ 
  # HAPPY LEARNING
 
 
