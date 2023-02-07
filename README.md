@@ -6,7 +6,7 @@ This project is about predicting rocks against Mines by the SONAR technology wit
 algorithms in this field are Logistic Regression, support vector machine, principal component analysis, k-nearest neighbors (KNN), etc.
 
 ## OBJECTIVE 
-
+ 
 The main aim is to predict the rock or mine in the underwater(sea , oceans) using SONAR that uses sound propagation (usually underwater, as in submarine navigation) to navigate, measure distances (ranging), communicate with or detect objects on or under the surface of the water , which will help the sea divers , submarines to know whether the object is mine or rock . I am using machine learning algorithms to predict these by using the dataset.
 
 ## LIBRARIES USED
