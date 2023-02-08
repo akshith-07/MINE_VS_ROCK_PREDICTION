@@ -5,7 +5,7 @@
 This project is about predicting rocks against Mines by the SONAR technology with the help of Machine Learning. SONAR is an abbreviated form of Sound Navigation and Ranging. It uses sound waves to detect objects underwater. Machine learning-based tactics, and deep learning-based approaches have applications in detecting sonar signals and hence targets.The three stages of Machine Learning are taking some data as input, extracting features, and predicting new patterns. The most common ML 
 algorithms in this field are Logistic Regression, support vector machine, principal component analysis, k-nearest neighbors (KNN), etc.
 
-## OBJECTIVE   
+## OBJECTIVE    
  
 The main aim is to predict the rock or mine in the underwater(sea , oceans) using SONAR that uses sound propagation (usually underwater, as in submarine navigation) to navigate, measure distances (ranging), communicate with or detect objects on or under the surface of the water , which will help the sea divers , submarines to know whether the object is mine or rock . I am using machine learning algorithms to predict these by using the dataset.
 
