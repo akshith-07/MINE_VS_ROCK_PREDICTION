@@ -16,7 +16,7 @@ A Python library is a collection of related modules. It contains bundles of code
 • Pickle 
 • Numpy 
 • Matplotlib 
-
+ 
 ## MODULES DESCRIPTION 
 
 ### Data Acquisition and Data Preprocessing:
