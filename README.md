@@ -24,7 +24,7 @@ A Python library is a collection of related modules. It contains bundles of code
 • The dataset has been collected from UCI Repository. It has come across 61 features which define and differentiate Rocks and Mines and comprises of 209 samples. This data is used for training and testing purpose. The Last column in this dataset indicates that, whether it's a mine or a rock, which is useful in prediction.The dataset is included in this repository.
 • The dataset is now pre processed to get the summary statistics of the dataset to decide the optimal prediction..
 
-### Feature Extraction:  
+### Feature Extraction:    
 Feature extraction refers to the process of transforming raw data into numerical features that can be processed while preserving the information in the original data set. It yields better results than applying machine learning directly to the raw data.
 Feature extraction can be accomplished manually or automatically:
 • Manual feature extraction requires identifying and describing the features that are relevant for a given problem and implementing a way to extract those features. 
