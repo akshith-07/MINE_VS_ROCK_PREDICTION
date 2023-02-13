@@ -30,7 +30,7 @@ Feature extraction can be accomplished manually or automatically:
 • Manual feature extraction requires identifying and describing the features that are relevant for a given problem and implementing a way to extract those features. 
 • Automated feature extraction uses specialized algorithms or deep networks to extract features automatically from signals or images without the need for human intervention. This technique can be very useful when you want to move quickly from raw data to developing machine learning algorithms. 
 
-### Training and testing of the Model:
+### Training and testing of the Model: 
  Next we train the machine to recognize mine and rock and pick the appropriate intent and we use the Machine Learning Algorithm like the Logistic regression for the complete training of the model. Every time we make changes to the dataset we need to train the machine to include the changes that have been made.It will train about 60% of the dataset inorder to make the machine well trained for the inputs
 • Training — Up to 75 percent of the total dataset is used for training. The model learns on the training set; in other words, the set is used to assign the weights 
 and biases that go into the model.
