@@ -19,7 +19,7 @@ A Python library is a collection of related modules. It contains bundles of code
  
 ## MODULES DESCRIPTION 
 
-### Data Acquisition and Data Preprocessing:
+### Data Acquisition and Data Preprocessing: 
 • Here the dataset is downloaded from https://www.kaggle.com/datasets/reshmaduseja/rock-vs-mine-predictionmachine-learning
 • The dataset has been collected from UCI Repository. It has come across 61 features which define and differentiate Rocks and Mines and comprises of 209 samples. This data is used for training and testing purpose. The Last column in this dataset indicates that, whether it's a mine or a rock, which is useful in prediction.The dataset is included in this repository.
 • The dataset is now pre processed to get the summary statistics of the dataset to decide the optimal prediction..
