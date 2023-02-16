@@ -25,7 +25,7 @@ A Python library is a collection of related modules. It contains bundles of code
 • The dataset is now pre processed to get the summary statistics of the dataset to decide the optimal prediction..
 
 ### Feature Extraction:     
-Feature extraction refers to the process of transforming raw data into numerical features that can be processed while preserving the information in the original data set. It yields better results than applying machine learning directly to the raw data.
+Feature extraction refers to the process of transforming raw data into numerical features that can be processed while preserving the information in the original data set. It yields better results than applying machine learning directly to the raw data. 
 Feature extraction can be accomplished manually or automatically:
 • Manual feature extraction requires identifying and describing the features that are relevant for a given problem and implementing a way to extract those features. 
 • Automated feature extraction uses specialized algorithms or deep networks to extract features automatically from signals or images without the need for human intervention. This technique can be very useful when you want to move quickly from raw data to developing machine learning algorithms. 
